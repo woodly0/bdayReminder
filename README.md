@@ -30,7 +30,7 @@ The app generates an HTML file with the 3 closest birthdays. If a birthday is wi
 
 ## Help
 
-Check out the log file that is created error.
+Check out the log file that is created on error
 
 ## Authors
 
